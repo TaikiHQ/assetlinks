@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ai.taiki.app",
+        "sha256_cert_fingerprints": ["C4:C9:35:3D:48:A7:BC:2B:99:4D:7F:B9:10:95:7E:03:C7:66:8A:6C:66:CB:5C:61:72:48:97:61:59:74:BB:0D"]
+      }
+    }
+  ]
+  
