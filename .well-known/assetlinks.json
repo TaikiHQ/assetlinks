@@ -1,11 +1,11 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "ai.taiki.app",
-        "sha256_cert_fingerprints": ["C4:C9:35:3D:48:A7:BC:2B:99:4D:7F:B9:10:95:7E:03:C7:66:8A:6C:66:CB:5C:61:72:48:97:61:59:74:BB:0D"]
-      }
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.taiki.app",
+      "sha256_cert_fingerprints":
+        ["1F:EF:78:94:46:23:E5:02:1E:44:90:50:9C:BD:D8:48:48:7B:96:39:BE:67:15:01:98:65:46:85:DD:71:76:FC"]
     }
-  ]
-  
+  }
+]
